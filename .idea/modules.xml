@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EXO1/EXO1.iml" filepath="$PROJECT_DIR$/EXO1/EXO1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXO2/EXO2.iml" filepath="$PROJECT_DIR$/EXO2/EXO2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EXO3/EXO3.iml" filepath="$PROJECT_DIR$/EXO3/EXO3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP_OGL.iml" filepath="$PROJECT_DIR$/TP_OGL.iml" />
+    </modules>
+  </component>
+</project>
